@@ -19,7 +19,7 @@
         <commons-lang3.version>3.4</commons-lang3.version>
         <commons-io.version>2.4</commons-io.version>
         <fastjson.version>1.2.29</fastjson.version>
-        <fastxml.jackson.version>2.9.3</fastxml.jackson.version>
+        <fastxml.jackson.version>2.12.6.1</fastxml.jackson.version>
 
         <hadoop.version>2.7.4</hadoop.version>
         <parquet.version>1.9.0</parquet.version>
